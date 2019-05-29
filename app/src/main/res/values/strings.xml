@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GBA3L1</string>
+    <string name="hour">Часы</string>
+    <string name="minutes">Минуты</string>
+    <string name="seconds">Секунды</string>
+    <string name="unknown">Неизвестно</string>
 </resources>
